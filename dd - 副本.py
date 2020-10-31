@@ -6,3 +6,9 @@ n=[1,2,3,4,5,6]
 print(n)
 n.insert(2,8)
 print(n)
+
+
+print('hhjhj')
+
+print('3'>'2')
+input()
